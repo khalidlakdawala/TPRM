@@ -1,0 +1,5 @@
+{
+  "name": "Vendor Threat Intelligence Analyzer",
+  "description": "An AI-powered application to assess vendor security posture based on live threat intelligence data. Enter a vendor's domain to receive a comprehensive risk analysis across multiple security vectors.",
+  "requestFramePermissions": []
+}
